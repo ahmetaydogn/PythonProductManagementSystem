@@ -1,0 +1,9 @@
+0,Casper Excalibur,Laptop,2022 Mayis 21,23300 TL,CASPER,20000 TL - Uzeri,Freedos,Stokta Yok
+1,Huawei D15 15.6,Laptop,2022 Ekim 16,22750 TL,HUAWEI,20000 TL - Uzeri,Windows,Stokta Var
+2,Asus Zenbook,Laptop,2021 Eylul 17,18870 TL,ASUS,15000 - 19999 TL,Freedos,Stokta Var
+3,Apple M2 15.6,Laptop,2023 Eylul 5,32000 TL,APPLE,20000 TL - Uzeri,macOS,Stokta Var
+4,Acer Nitro 5.0,Gaming Laptop,2021 Agustos 27,21000 TL,ACER,20000 TL - Uzeri,Freedos,Stokta Var
+5,HP Victus 15.6,Gaming Laptop,2022 Subat 15,31500 TL,HP,20000 TL - Uzeri,Windows,Stokta Var
+6,Lenovo Ip Gaming 3,Laptop,2023 Nisan 9,24999 TL,LENOVO,20000 TL - Uzeri,Windows,Stokta Var
+7,Msi Thin GF63,Gaming Laptop,2019 Haziran 3,36586 TL,MSI,20000 TL - Uzeri,Freedos,Stokta Var
+8,Msi Thin GF63,Gaming Laptop,2019 Haziran 3,36586 TL,MSI,20000 TL - Uzeri,Freedos,Stokta Var
