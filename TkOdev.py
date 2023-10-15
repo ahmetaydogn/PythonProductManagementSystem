@@ -308,5 +308,7 @@ def getProductInfo(e):
         getProducts.close()
 productTable.bind("<Double-1>", getProductInfo)
 
+if __name__ == '__main__':
+    GetAllProduct()
 
 root.mainloop()
